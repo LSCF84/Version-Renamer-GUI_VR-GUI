@@ -10,13 +10,15 @@
 
 </div>
 
-##  Resumen del Proyecto
+## 🌟 Resumen del Proyecto
 
 Esta es una aplicación de escritorio desarrollada en **Python** utilizando **Tkinter** para proporcionar una solución **intuitiva y segura** para renombrar archivos dentro de un directorio, aplicando un sistema de versionado automático.
 
 El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el historial de versiones de sus *scripts* (`.py` en este caso) basados en la fecha de modificación, asegurando que cada archivo antiguo reciba un nuevo nombre único antes de guardar una versión más reciente.
 
-##  Características Principales
+---
+
+## ✨ Características Principales
 
 * **Interfaz Gráfica (GUI):** Desarrollada con Tkinter para una experiencia de usuario sencilla.
 * **Versionado Automático:** Renombra archivos en orden de antigüedad (usando la fecha de modificación) asignando versiones crecientes (ej: `nombre_base_v.1.0.py`, `nombre_base_v.1.1.py`, etc.).
@@ -36,13 +38,25 @@ El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el hist
 | **`os` & `glob`** | Manejo del sistema de archivos, directorios y obtención de metadatos (fechas de modificación). |
 | **`datetime`** | Formateo y gestión de las fechas de modificación. |
 
-## Instalación y Uso
+## 🚀 Instalación Rápida
 
 ### Prerrequisitos
 - Python 3.8 o superior
 - Windows 10/11
 - Permisos de administrador (recomendado)
 ---
+
+## Instalación
+
+1.  **Clona el repositorio**
+    ```bash
+    git clone https://github.com/LSCF84/Renamer-GUI.git
+   cd Renamer-GUI
+    ```
+2.  **Instala dependencias**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ### 2. Ejecución
 
