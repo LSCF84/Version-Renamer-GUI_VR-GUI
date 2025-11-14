@@ -1,3 +1,4 @@
+
 <div align="center">
    
 # Version Renamer GUI (Renombrador de Versiones con Interfaz Gráfica)
@@ -34,7 +35,7 @@ El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el hist
 | Tecnología | Propósito |
 | :--- | :--- |
 | **Python** | Lenguaje de programación principal. |
-| **Tkinter/ttkbootstrap** | Creación de la Interfaz Gráfica de Usuario (GUI). |
+| **Tkinter** | Creación de la Interfaz Gráfica de Usuario (GUI). |
 | **`os` & `glob`** | Manejo del sistema de archivos, directorios y obtención de metadatos (fechas de modificación). |
 | **`datetime`** | Formateo y gestión de las fechas de modificación. |
 
