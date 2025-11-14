@@ -1,7 +1,7 @@
 
 <div align="center">
    
-# Version Renamer GUI (Renombrador de Versiones con Interfaz Gráfica)
+# ⚙️ Version Renamer GUI (Renombrador de Versiones con Interfaz Gráfica)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
@@ -30,7 +30,7 @@ El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el hist
 * **Previsualización:** Muestra una vista previa de los nuevos nombres de archivo antes de ejecutar el renombrado final.
 * **Selección Múltiple:** Control granular sobre qué archivos deben ser renombrados mediante *checkboxes* en la lista.
 
-## Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 | Tecnología | Propósito |
 | :--- | :--- |
@@ -39,7 +39,17 @@ El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el hist
 | **`os` & `glob`** | Manejo del sistema de archivos, directorios y obtención de metadatos (fechas de modificación). |
 | **`datetime`** | Formateo y gestión de las fechas de modificación. |
 
-## 🚀 Instalación Rápida
+---
+
+## 💡 Información General y Propósito
+
+| Detalle | Descripción |
+| :--- | :--- |
+| **Creador** | LSCF |
+| **Propósito** | Renombrar archivos rapidamente en funcion de la fecha del archivo. |
+| **Origen** | Idea original de LSCF. |
+
+## 🚀 Instalación y Uso
 
 ### Prerrequisitos
 - Python 3.8 o superior
@@ -47,7 +57,7 @@ El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el hist
 - Permisos de administrador (recomendado)
 ---
 
-## Instalación
+### 1. Instalación de Dependencias
 
 1.  **Clona el repositorio**
     ```bash
