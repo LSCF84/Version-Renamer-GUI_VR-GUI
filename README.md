@@ -34,7 +34,7 @@ El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el hist
 | Tecnología | Propósito |
 | :--- | :--- |
 | **Python** | Lenguaje de programación principal. |
-| **Tkinter** | Creación de la Interfaz Gráfica de Usuario (GUI). |
+| **Tkinter/ttkbootstrap** | Creación de la Interfaz Gráfica de Usuario (GUI). |
 | **`os` & `glob`** | Manejo del sistema de archivos, directorios y obtención de metadatos (fechas de modificación). |
 | **`datetime`** | Formateo y gestión de las fechas de modificación. |
 
