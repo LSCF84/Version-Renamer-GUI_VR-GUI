@@ -1,7 +1,7 @@
 
 <div align="center">
    
-# ⚙️ Version Renamer GUI (Renombrador de Versiones con Interfaz Gráfica)
+# ⚙️ Version Renamer GUI (VR-GUI)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
