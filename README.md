@@ -60,7 +60,7 @@ El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el hist
 
 1.  **Clona el repositorio**
     ```bash
-    git clone https://github.com/LSCF84/Renamer-GUI.git
+    git clone https://github.com/LSCF84/Version-Renamer-GUI_VR-GUI.git
    cd Renamer-GUI
     ```
 2.  **Instala dependencias**
